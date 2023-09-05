@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dandara4
-- 👀 I’m interested in working
+- 👀 I’m interested in working with marketing digital
 - 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on to study
+- 💞️ I’m looking to collaborate on https://cursos.alura.com.br/user/
 - 📫 to reach me by gmail dandara.miranda@escola.pr.gov.br
 
 <!---
