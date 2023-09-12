@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dandara4
-- 👀 I’m interested in working with marketing digital
-- 🌱 I’m currently learning robotics
-- 💞️ I’m looking to collaborate on https://cursos.alura.com.br/user/
-- 📫 to reach me by gmail dandara.miranda@escola.pr.gov.br
+- 👋 Olá, sou @dandara4
+- 👀 Tenho interesse em trabalhar com marketing digital
+- 🌱 Atualmente estou aprendendo robótica
+- 💞️ Procuro colaborar em https://cursos.alura.com.br/user/
+- 📫 para entrar em contato pelo gmail dandara.miranda@escola.pr.gov.br
 
 <!---
 dandara4/dandara4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
