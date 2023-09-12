@@ -1,7 +1,7 @@
 - 👋 Olá, sou @dandara4
 - 👀 Tenho interesse em trabalhar com marketing digital
 - 🌱 Atualmente estou aprendendo robótica
-- 💞️ Procuro colaborar em https://cursos.alura.com.br/user/
+- 💞️ Procuro colaborar em [alura](https://cursos.alura.com.br/user/)
 - 📫 para entrar em contato pelo gmail dandara.miranda@escola.pr.gov.br
 
 <!---
